@@ -1,7 +1,5 @@
 package com.CS656.CS656_WeatherApp;
-/**
- * Created by SHAJIB on 7/4/2017.
- */
+
 import android.graphics.Typeface;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -10,8 +8,6 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    // Project Created by Ferdousur Rahman Shajib
-    // www.androstock.com
 
 
     TextView cityField, detailsField, currentTemperatureField, humidity_field, pressure_field, weatherIcon, updatedField;
