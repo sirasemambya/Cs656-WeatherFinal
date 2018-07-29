@@ -2,40 +2,22 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/Users/sirasemambya/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/sirasemambya/Documents/GitHub/Cs656-WeatherFinal/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="/Users/sirasemambya/Downloads/MyWeatherApp/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_0d2af1f2ca0dbdf117fb1e89ee53aba76efb9159.jar" />
+        sha1="b850d0c757ad5a33357079bf4ee3ec0ed0b94130">
+        <dex dex="/Users/sirasemambya/Documents/GitHub/Cs656-WeatherFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4fada5bbea57f789a5272c10d9f42ac8be92c936/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/sirasemambya/Downloads/MyWeatherApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/sirasemambya/Documents/GitHub/Cs656-WeatherFinal/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
-        <dex dex="/Users/sirasemambya/Downloads/MyWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c696ef211e8ae2b1245a64f449322b0cde474857/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/sirasemambya/.android/build-cache/e7e75a4759e2eaad1d2179dc37f0a64285ef1281/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/Users/sirasemambya/Downloads/MyWeatherApp/app/build/intermediates/pre-dexed/debug/classes_e4f5f759b3207883851c373a4e968fe8cb1684ed.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sirasemambya/Downloads/MyWeatherApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b2ce7a858c023a587a4c6a36d26ae36aaae4219a">
-        <dex dex="/Users/sirasemambya/Downloads/MyWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_996dde23f07933e2eab959a714314844b819a52c/classes.dex" />
+        <dex dex="/Users/sirasemambya/Documents/GitHub/Cs656-WeatherFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c5de1804ad0f0041d1fedbd714dde4ccdcfc1499/classes.dex" />
     </item>
 
 </items>
