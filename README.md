@@ -14,10 +14,10 @@ Java
 ## Feature Overview
 Our Weather Mobile Application allows users to:
 
-View the temperature of my current location.
-View the pressure of my current location.
-View the humidity of my current location.
-View the current date and time.
+- View the temperature of my current location.
+- View the pressure of my current location.
+- View the humidity of my current location.
+- View the current date and time.
 
 
 
